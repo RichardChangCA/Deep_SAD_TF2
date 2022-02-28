@@ -36,4 +36,6 @@ Normal class: 5, Abnormal classes: 6,7,8,9,0
 
 abnormal = 0.01 * normal
 
+final AUC_ROC: 0.6566
+
 Pipeline: train autoencoder --> get center c and initialized encoder --> train deep-sad
