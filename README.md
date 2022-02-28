@@ -46,6 +46,6 @@ abnormal = 0.1 * normal
 
 final AUC_ROC: 0.8430
 
-'nu' can be tunned for threshold selection --> trade-off precision and recall
+'nu' can be tunned for decision threshold selection --> trade-off precision and recall
 
 Pipeline: train autoencoder --> get center c and initialized encoder --> train deep-sad
