@@ -30,7 +30,7 @@ Dataset: cifar10 https://www.tensorflow.org/api_docs/python/tf/keras/datasets/ci
 
 ------
 
-All training samples as labeled: labeled normal or labeled abnormal)
+All training samples are labeled: labeled normal or labeled abnormal)
 
 Normal class: 5, Abnormal classes: 6,7,8,9,0
 
