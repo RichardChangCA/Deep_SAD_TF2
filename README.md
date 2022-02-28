@@ -2,6 +2,10 @@
 
 Unofficial implementation of 2020 ICLR paper "DEEP SEMI-SUPERVISED ANOMALY DETECTION" TensorFlow 2.0 version
 
+Paper: https://arxiv.org/abs/1906.02694
+
+Official PyTorch Version: https://github.com/lukasruff/Deep-SAD-PyTorch
+
 ```python
 from google.colab import drive
 drive.mount('/content/cifar10')
