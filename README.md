@@ -7,3 +7,5 @@ Dataset: cifar10
 Normal class: 5, Abnormal classes: 6,7,8,9,0
 
 abnormal = 0.01 * normal
+
+Pipeline: train autoencoder --> get center c and initialized encoder --> train deep-sad
